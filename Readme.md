@@ -1,7 +1,7 @@
+
 <h1>Twitter Card Proje</h1>
 
  Bu Proje HTML, CSS, ve JAVASCRİPT projeleri ile yapılan Twitter Card projesidir.
-
 
 <h1>Kullanılan Teknolojiler</h1>
 
